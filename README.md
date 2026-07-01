@@ -30,4 +30,4 @@ This project demonstrates working with APIs, dynamic data rendering, and buildin
 Clone the repository:
 
 ```bash
-git clone https://github.com/arshia-ghaemi/coffee-menu-app.git
+git clone https://github.com/arshia-ghaemi/Coffe-Menu.git
