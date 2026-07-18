@@ -22,6 +22,7 @@ This project demonstrates working with APIs, dynamic data rendering, and buildin
 - JavaScript (ES6+)
 - CSS / Responsive Design
 - REST API
+- Tailwindcss
 
 ---
 
